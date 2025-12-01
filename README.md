@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Research-blue.svg)]()
 [![Theory](https://img.shields.io/badge/Theory-Universal%20Energy%20Dynamics-purple.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[github|Spacetime-Hydrodynamics](https://github.com/robertglools/Spacetime-Hydrodynamics)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black.svg?logo=github&labelColor=555555)](https://github.com/robertglools/Spacetime-Hydrodynamics)
 ---
 
 
