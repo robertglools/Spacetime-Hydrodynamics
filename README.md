@@ -36,17 +36,16 @@ Our ultimate goal extends beyond explaining astrophysical anomalies (such as Dar
 
 ---
 
-
-
 ## 📚 研究文档列表 (Document Registry)
 
 这里汇集了本项目的核心理论推演、数据验证报告及阶段性成果。列表将持续更新。
+*This registry hosts the core theoretical deductions, data verification reports, and milestones. It will be continuously updated.*
 
-| 日期 (Date)    | 文档标题 (Title)                                             | 类型 (Type) | 摘要/关键结论 (Summary of Findings)                          | 链接 (Link)                                                  |
-| :------------- | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| **2025-11-30** | **正式论文：能量解耦证据与统计残差分析**<br>*(On Gravity as a Dynamic Engine Effect: Statistical Residual Analysis)* | **Paper**   | **核心验证：** 在 $9.5\sigma$ 置信度下证实高龄恒星存在 $3.8\%$ 引力疲劳，并揭示暗物质实为引擎辐射效率差异。<br>*(Core Validation: $9.5\sigma$ evidence of $3.8\%$ gravitational fatigue in old stars, linking Dark Matter to engine efficiency.)* | **[EN PDF]**(*./01_Theoretical_Foundation/UED-01_Gravity_Engine_Decoupling_EN.pdf*)<br>**[CN MD]**(*./01_Theoretical_Foundation/UED-01_Gravity_Engine_Decoupling_CN.md*) |
-| **2025-11-30** | **研究备忘录：理论框架与逻辑起点**<br>*(Research Memo: Evidence of Mass Decoupling)* | **Memo**    | 项目的逻辑起点。 详细阐述了从现象观察到“核心引擎”假说的推演过程，包含微观到宏观的完整逻辑链。<br>*(The logical origin. Details the deduction process from phenomenological observation to the "Core Engine" hypothesis.)* | [阅读/Read](*./01_Theoretical_Foundation/UED-01_Gravity_Engine_Decoupling_CN.md*) |
-| *Pending*      | *(Reserved for future documents)*                            | -           | -                                                            | -                                                            |
+| 日期 (Date) | 文档标题 (Title)                                             | 类型 (Type)               | 摘要/关键结论 (Summary)                                      | 链接 (Link)                              |
+| :---------- | :----------------------------------------------------------- | :------------------------ | :----------------------------------------------------------- | :--------------------------------------- |
+| 2025-11-30  | **论引力作为核心引擎的动态效应：基于多尺度数据集的能量解耦证据与统计残差分析**<br>*(On Gravity as a Dynamic Engine Effect: Statistical Residual Analysis)* | **正式论文**<br>*(Paper)* | **核心理论验证。** 基于 APOKASC-2 和 SPARC 数据集，在 $9.5\sigma$ 置信度下证实高龄恒星存在引力疲劳，并揭示暗物质实为引擎辐射效率差异。<br>*Core validation. Confirms gravitational fatigue in old stars with $9.5\sigma$ significance and reveals Dark Matter as an engine efficiency illusion.* | [阅读/Read](./01_Theoretical_Foundation/UED-01_Gravity_Engine_Decoupling_EN.pdf) |
+| 2025-11-30  | **研究备忘录：恒星演化中的引力质量解耦证据**<br>*(Research Memo: Evidence of Mass Decoupling)* | **理论综述**<br>*(Memo)*  | **项目的逻辑起点。** 详细阐述了从现象观察到“核心引擎”假说的推演过程，包含微观到宏观的完整逻辑链。<br>*The logical origin. Details the deduction process from phenomenological observation to the "Core Engine" hypothesis.* | **[EN Memo]**(*./01_Theoretical_Foundation/research_memo_en.md*)<br>**[CN Memo]**(*./01_Theoretical_Foundation/research_memo_cn.md*)|
+| *Pending*   | *(Reserved for future documents)*                            | -                         | -                                                            | -                                        |
 
 > *注：点击链接可直接查看仓库内的详细文档。*
 > *Note: Click links to view detailed documents within the repository.*
