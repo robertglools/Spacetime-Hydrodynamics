@@ -242,6 +242,10 @@ $$\Psi(t) = \frac{M_g(t)}{M_i}$$
 
 
 
+**Data & Code Availability:** The analysis code (Python) and derived datasets used to verify the UED framework are publicly available and reproducible at the project repository: **https://github.com/robertglools/Spacetime-Hydrodynamics**
+
+
+
 ### 附录：数据来源引证 (Data References)
 
 

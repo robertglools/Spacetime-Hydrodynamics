@@ -183,6 +183,10 @@ The UED framework, supported by empirical evidence across three decades of obser
 
 
 
+**Data & Code Availability:** The analysis code (Python) and derived datasets used to verify the UED framework are publicly available and reproducible at the project repository: **https://github.com/robertglools/Spacetime-Hydrodynamics**
+
+
+
 ### Data Availability & References
 
 
